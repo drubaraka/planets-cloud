@@ -1,5 +1,5 @@
 # planets-cloud
 
-This is a porrly documented repository.
+This is a poorly documented repository.
 But I'm trying to fix it.
-Now in local files.
+This is the local version, it is inferior to the remote file.
