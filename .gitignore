@@ -1,0 +1,6 @@
+a.dat
+# ignore all data files
+*.dat
+
+#also ignore this file
+mars.txt
