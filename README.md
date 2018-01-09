@@ -1,5 +1,5 @@
 # planets-cloud
 
-This is a porrly documented repository.
+This is a pooly documented repository.
 But I'm trying to fix it.
-Now in local files.
+This is the online version, it takes priority.
